@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 6868992
-00#VERS#LENGTH###: 1756120
+00#VERS#CLENGTH##: 5559145
+00#VERS#LENGTH###: 1387613
 00#VERS#URI######: 1320NuriTabarsi.MustadrakWasail.Shia001237Vols-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/42023373
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/42023373
@@ -12,6 +12,7 @@
     mistakes in hadith numberings; a PARATEXT - colophone of afterword by
     the author -at the end of colume 18 is missing from the EditPadPro
     version.
-   NOTE OF THE REVIEWER (HRH): PARATEXT added. Editorial removed. Corrected headers that were not aligned in one line. Separated body text from the titles.
+    NOTE OF THE REVIEWER (HRH): PARATEXT added. Editorial removed. Corrected headers
+    that were not aligned in one line. Separated body text from the titles.
 90#VERS#DATE#####: 2020-06-08
 90#VERS#ISSUES###: HTML_TAGS, RANDOM_CHARS
