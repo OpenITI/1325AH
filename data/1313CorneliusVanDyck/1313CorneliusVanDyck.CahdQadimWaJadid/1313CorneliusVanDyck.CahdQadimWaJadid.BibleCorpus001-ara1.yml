@@ -4,12 +4,15 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/945484558
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/945484558
 80#VERS#LINKS####: https://github.com/christos-c/bible-
-    corpus/blob/master/bibles/Arabic.xml
+        corpus/blob/master/bibles/Arabic.xml
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: Converted from the XML version of Smith & Van Dyke's
-    1869 Arabic translation of the Bible at Christos Christodoulopoulos'
-    Bible Corpus. The XML metadata contains a link to
-    http://bibledatabase.com/
-    NOTE OF THE REVIEWER (HRH): No changes.
+        1869 Arabic translation of the Bible at Christos Christodoulopoulos'
+        Bible Corpus. The XML metadata contains a link to
+        http://bibledatabase.com/
+        NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-02-07
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION
