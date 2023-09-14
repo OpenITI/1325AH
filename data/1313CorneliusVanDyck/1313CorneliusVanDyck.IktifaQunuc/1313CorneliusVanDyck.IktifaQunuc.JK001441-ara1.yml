@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 446161
-00#VERS#LENGTH###: 101627
+00#VERS#CLENGTH##: 408679
+00#VERS#LENGTH###: 93591
 00#VERS#URI######: 1313CorneliusVanDyck.IktifaQunuc.JK001441-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/841699553 ?
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/784525511
@@ -20,6 +20,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/1325AH/pre-clean/data/1313CorneliusVanDyck/1313CorneliusVanDyck.IktifaQunuc/1313CorneliusVanDyck.IktifaQunuc.JK001441-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/1325AH/pre-
+    clean/data/1313CorneliusVanDyck/1313CorneliusVanDyck.IktifaQunuc/1313CorneliusVanDyck.IktifaQunuc.JK001441-ara1.completed
 90#VERS#DATE#####: 2020-11-19
-90#VERS#ISSUES###: MISSING_PARTS, RANDOM_CHARS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: MISSING_PARTS, RANDOM_CHARS, EDITORIAL_SECTIONS,
+    PRIMARY_VERSION, CLEANED_VERSION
