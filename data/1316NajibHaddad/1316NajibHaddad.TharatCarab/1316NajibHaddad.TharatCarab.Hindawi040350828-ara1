@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1316NajibHaddad.TharatCarab.Hindawi40350828",
-    "BookCats": "plays",
-    "BookID": "40350828",
-    "BookTitle": "ثارات العرب: أدبية تاريخية غرامية تشخيصية",
-    "AuthorID": "25707097",
-    "AuthorNam": "نجيب الحداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1316NajibHaddad.TharatCarab.Hindawi40350828
+#META# Tags: plays
+#META# ID: 40350828
+#META# Title: ثارات العرب: أدبية تاريخية غرامية تشخيصية
+#META# AuthorID: 25707097
+#META# Author: نجيب الحداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

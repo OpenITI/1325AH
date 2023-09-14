@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1320AbuKhalilQabbani.CantarIbnShaddad.Hindawi35251309",
-    "BookCats": "plays",
-    "BookID": "35251309",
-    "BookTitle": "عنتر بن شداد: تاريخية أدبية غرامية حربية تلحينية تشخيصية ذات أربعة فصول",
-    "AuthorID": "80906818",
-    "AuthorNam": "أحمد أبو خليل القباني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1320AbuKhalilQabbani.CantarIbnShaddad.Hindawi35251309
+#META# Tags: plays
+#META# ID: 35251309
+#META# Title: عنتر بن شداد: تاريخية أدبية غرامية حربية تلحينية تشخيصية ذات أربعة فصول
+#META# AuthorID: 80906818
+#META# Author: أحمد أبو خليل القباني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1325YusufDibs.MujazFiTarikhSuriya.Hindawi59535917",
-    "BookCats": "history",
-    "BookID": "59535917",
-    "BookTitle": "الموجز في تاريخ سورية",
-    "AuthorID": "15149746",
-    "AuthorNam": "يوسف الدبس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1325YusufDibs.MujazFiTarikhSuriya.Hindawi59535917
+#META# Tags: history
+#META# ID: 59535917
+#META# Title: الموجز في تاريخ سورية
+#META# AuthorID: 15149746
+#META# Author: يوسف الدبس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

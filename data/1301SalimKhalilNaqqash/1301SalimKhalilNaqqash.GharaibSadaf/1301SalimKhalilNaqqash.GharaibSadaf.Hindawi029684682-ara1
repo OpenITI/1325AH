@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1301SalimKhalilNaqqash.GharaibSadaf.Hindawi29684682",
-    "BookCats": "plays",
-    "BookID": "29684682",
-    "BookTitle": "غرائب الصدف",
-    "AuthorID": "73530582",
-    "AuthorNam": "سليم خليل النقاش",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1301SalimKhalilNaqqash.GharaibSadaf.Hindawi29684682
+#META# Tags: plays
+#META# ID: 29684682
+#META# Title: غرائب الصدف
+#META# AuthorID: 73530582
+#META# Author: سليم خليل النقاش
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

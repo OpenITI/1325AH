@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1310CaliMubarak.Hayati.Hindawi90971751",
-    "BookCats": "biographies",
-    "BookID": "90971751",
-    "BookTitle": "حياتي",
-    "AuthorID": "79680427",
-    "AuthorNam": "علي مبارك",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1310CaliMubarak.Hayati.Hindawi90971751
+#META# Tags: biographies
+#META# ID: 90971751
+#META# Title: حياتي
+#META# AuthorID: 79680427
+#META# Author: علي مبارك
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

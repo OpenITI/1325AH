@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1320AbuKhalilQabbani.LubabGharam.Hindawi62705842",
-    "BookCats": "plays",
-    "BookID": "62705842",
-    "BookTitle": "لباب الغرام",
-    "AuthorID": "80906818",
-    "AuthorNam": "أحمد أبو خليل القباني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1320AbuKhalilQabbani.LubabGharam.Hindawi62705842
+#META# Tags: plays
+#META# ID: 62705842
+#META# Title: لباب الغرام
+#META# AuthorID: 80906818
+#META# Author: أحمد أبو خليل القباني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1325NajibAshciya.FiZilalHaqiqa.Hindawi31460696",
-    "BookCats": "philosophy :: literature",
-    "BookID": "31460696",
-    "BookTitle": "في ظلال الحقيقة",
-    "AuthorID": "37402050",
-    "AuthorNam": "نجيب أشعيا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1325NajibAshciya.FiZilalHaqiqa.Hindawi31460696
+#META# Tags: philosophy :: literature
+#META# ID: 31460696
+#META# Title: في ظلال الحقيقة
+#META# AuthorID: 37402050
+#META# Author: نجيب أشعيا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

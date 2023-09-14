@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1301SalimKhalilNaqqash.Zulum.Hindawi26859382",
-    "BookCats": "plays",
-    "BookID": "26859382",
-    "BookTitle": "الظلوم",
-    "AuthorID": "73530582",
-    "AuthorNam": "سليم خليل النقاش",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1301SalimKhalilNaqqash.Zulum.Hindawi26859382
+#META# Tags: plays
+#META# ID: 26859382
+#META# Title: الظلوم
+#META# AuthorID: 73530582
+#META# Author: سليم خليل النقاش
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

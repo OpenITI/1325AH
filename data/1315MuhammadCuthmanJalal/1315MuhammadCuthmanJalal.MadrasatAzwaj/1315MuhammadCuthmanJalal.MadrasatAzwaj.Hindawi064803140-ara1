@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1315MuhammadCuthmanJalal.MadrasatAzwaj.Hindawi64803140",
-    "BookCats": "plays",
-    "BookID": "64803140",
-    "BookTitle": "مدرسة الأزواج",
-    "AuthorID": "52720373",
-    "AuthorNam": "محمد عثمان جلال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1315MuhammadCuthmanJalal.MadrasatAzwaj.Hindawi64803140
+#META# Tags: plays
+#META# ID: 64803140
+#META# Title: مدرسة الأزواج
+#META# AuthorID: 52720373
+#META# Author: محمد عثمان جلال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

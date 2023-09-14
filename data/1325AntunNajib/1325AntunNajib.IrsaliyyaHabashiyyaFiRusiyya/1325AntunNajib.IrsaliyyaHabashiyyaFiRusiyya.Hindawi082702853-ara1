@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1325AntunNajib.IrsaliyyaHabashiyyaFiRusiyya.Hindawi82702853",
-    "BookCats": "history",
-    "BookID": "82702853",
-    "BookTitle": "الإرسالية القبطية الحبشية في البلاد الروسية: نيافة الأنبا متاءوس في بلاد الروس",
-    "AuthorID": "68302831",
-    "AuthorNam": "أنطون نجيب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1325AntunNajib.IrsaliyyaHabashiyyaFiRusiyya.Hindawi82702853
+#META# Tags: history
+#META# ID: 82702853
+#META# Title: الإرسالية القبطية الحبشية في البلاد الروسية: نيافة الأنبا متاءوس في بلاد الروس
+#META# AuthorID: 68302831
+#META# Author: أنطون نجيب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

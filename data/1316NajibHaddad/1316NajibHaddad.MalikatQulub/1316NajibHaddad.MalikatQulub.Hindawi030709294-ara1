@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1316NajibHaddad.MalikatQulub.Hindawi30709294",
-    "BookCats": "novels",
-    "BookID": "30709294",
-    "BookTitle": "ملكة القلوب",
-    "AuthorID": "25707097",
-    "AuthorNam": "نجيب الحداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1316NajibHaddad.MalikatQulub.Hindawi30709294
+#META# Tags: novels
+#META# ID: 30709294
+#META# Title: ملكة القلوب
+#META# AuthorID: 25707097
+#META# Author: نجيب الحداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

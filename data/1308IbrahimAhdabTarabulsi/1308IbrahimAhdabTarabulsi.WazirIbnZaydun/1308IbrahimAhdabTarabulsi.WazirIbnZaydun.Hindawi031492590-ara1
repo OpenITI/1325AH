@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1308IbrahimAhdabTarabulsi.WazirIbnZaydun.Hindawi31492590",
-    "BookCats": "plays",
-    "BookID": "31492590",
-    "BookTitle": "الوزير ابن زَيْدون مع وَلَّادة بنت المستكفي",
-    "AuthorID": "74070613",
-    "AuthorNam": "إبراهيم الأحدب الطرابلسي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1308IbrahimAhdabTarabulsi.WazirIbnZaydun.Hindawi31492590
+#META# Tags: plays
+#META# ID: 31492590
+#META# Title: الوزير ابن زَيْدون مع وَلَّادة بنت المستكفي
+#META# AuthorID: 74070613
+#META# Author: إبراهيم الأحدب الطرابلسي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1320AbuKhalilQabbani.HiyalNisa.Hindawi58630741",
-    "BookCats": "plays",
-    "BookID": "58630741",
-    "BookTitle": "حيل النساء",
-    "AuthorID": "80906818",
-    "AuthorNam": "أحمد أبو خليل القباني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1320AbuKhalilQabbani.HiyalNisa.Hindawi58630741
+#META# Tags: plays
+#META# ID: 58630741
+#META# Title: حيل النساء
+#META# AuthorID: 80906818
+#META# Author: أحمد أبو خليل القباني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

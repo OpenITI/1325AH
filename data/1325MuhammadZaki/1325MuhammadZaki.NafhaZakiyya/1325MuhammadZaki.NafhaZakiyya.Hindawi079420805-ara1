@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1325MuhammadZaki.NafhaZakiyya.Hindawi79420805",
-    "BookCats": "history",
-    "BookID": "79420805",
-    "BookTitle": "النفحة الزكية في تاريخ مصر وأخبار الدولة الإسلامية",
-    "AuthorID": "20248483",
-    "AuthorNam": "محمد زكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1325MuhammadZaki.NafhaZakiyya.Hindawi79420805
+#META# Tags: history
+#META# ID: 79420805
+#META# Title: النفحة الزكية في تاريخ مصر وأخبار الدولة الإسلامية
+#META# AuthorID: 20248483
+#META# Author: محمد زكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

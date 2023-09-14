@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1316NajibHaddad.RajaBacdaYas.Hindawi94064849",
-    "BookCats": "novels",
-    "BookID": "94064849",
-    "BookTitle": "الرجاء بعد اليأس",
-    "AuthorID": "25707097",
-    "AuthorNam": "نجيب الحداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1316NajibHaddad.RajaBacdaYas.Hindawi94064849
+#META# Tags: novels
+#META# ID: 94064849
+#META# Title: الرجاء بعد اليأس
+#META# AuthorID: 25707097
+#META# Author: نجيب الحداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

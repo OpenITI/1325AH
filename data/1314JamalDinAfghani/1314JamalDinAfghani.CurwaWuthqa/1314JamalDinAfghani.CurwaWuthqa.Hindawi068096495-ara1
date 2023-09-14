@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1314JamalDinAfghani.CurwaWuthqa.Hindawi68096495",
-    "BookCats": "literature",
-    "BookID": "68096495",
-    "BookTitle": "العروة الوثقى",
-    "AuthorID": "71572096 :: 61829392",
-    "AuthorNam": "جمال الدين الأفغاني :: محمد عبده",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1314JamalDinAfghani.CurwaWuthqa.Hindawi68096495
+#META# Tags: literature
+#META# ID: 68096495
+#META# Title: العروة الوثقى
+#META# AuthorID: 71572096 :: 61829392
+#META# Author: جمال الدين الأفغاني :: محمد عبده
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

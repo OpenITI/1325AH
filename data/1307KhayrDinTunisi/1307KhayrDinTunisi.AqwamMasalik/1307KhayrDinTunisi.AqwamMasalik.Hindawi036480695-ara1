@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1307KhayrDinTunisi.AqwamMasalik.Hindawi36480695",
-    "BookCats": "history",
-    "BookID": "36480695",
-    "BookTitle": "أقوَم المسالك في معرفة أحوال الممالك",
-    "AuthorID": "46460603",
-    "AuthorNam": "خير الدين التونسي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1307KhayrDinTunisi.AqwamMasalik.Hindawi36480695
+#META# Tags: history
+#META# ID: 36480695
+#META# Title: أقوَم المسالك في معرفة أحوال الممالك
+#META# AuthorID: 46460603
+#META# Author: خير الدين التونسي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1314JamalDinAfghani.BayanFiInjlizWaAfghan.Hindawi47907247",
-    "BookCats": "history",
-    "BookID": "47907247",
-    "BookTitle": "البيان في الإنجليز والأفغان",
-    "AuthorID": "71572096",
-    "AuthorNam": "جمال الدين الأفغاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1314JamalDinAfghani.BayanFiInjlizWaAfghan.Hindawi47907247
+#META# Tags: history
+#META# ID: 47907247
+#META# Title: البيان في الإنجليز والأفغان
+#META# AuthorID: 71572096
+#META# Author: جمال الدين الأفغاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

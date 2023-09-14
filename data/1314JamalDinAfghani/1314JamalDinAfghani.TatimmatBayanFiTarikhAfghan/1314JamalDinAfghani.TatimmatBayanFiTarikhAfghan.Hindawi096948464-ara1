@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1314JamalDinAfghani.TatimmatBayanFiTarikhAfghan.Hindawi96948464",
-    "BookCats": "history",
-    "BookID": "96948464",
-    "BookTitle": "تتمة البيان في تاريخ الأفغان",
-    "AuthorID": "71572096",
-    "AuthorNam": "جمال الدين الأفغاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1314JamalDinAfghani.TatimmatBayanFiTarikhAfghan.Hindawi96948464
+#META# Tags: history
+#META# ID: 96948464
+#META# Title: تتمة البيان في تاريخ الأفغان
+#META# AuthorID: 71572096
+#META# Author: جمال الدين الأفغاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

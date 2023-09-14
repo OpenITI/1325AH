@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1306IbrahimSubhi.HakimTayyar.Hindawi70973937",
-    "BookCats": "plays",
-    "BookID": "70973937",
-    "BookTitle": "الحكيم الطيار",
-    "AuthorID": "94039362",
-    "AuthorNam": "إبراهيم صبحي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "1083Moliere.MedecinVolant (TRANSL)"
-}
-
+#META# URI: 1306IbrahimSubhi.HakimTayyar.Hindawi70973937
+#META# Tags: plays
+#META# ID: 70973937
+#META# Title: الحكيم الطيار
+#META# AuthorID: 94039362
+#META# Author: إبراهيم صبحي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: 1083Moliere.MedecinVolant (TRANSL)
 
 #META#Header#End#
 

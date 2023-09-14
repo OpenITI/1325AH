@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1320AbuKhalilQabbani.HarunRashidMacaAnasJalis.Hindawi50840694",
-    "BookCats": "plays",
-    "BookID": "50840694",
-    "BookTitle": "هارون الرشيد مع أنس الجليس",
-    "AuthorID": "80906818",
-    "AuthorNam": "أحمد أبو خليل القباني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1320AbuKhalilQabbani.HarunRashidMacaAnasJalis.Hindawi50840694
+#META# Tags: plays
+#META# ID: 50840694
+#META# Title: هارون الرشيد مع أنس الجليس
+#META# AuthorID: 80906818
+#META# Author: أحمد أبو خليل القباني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

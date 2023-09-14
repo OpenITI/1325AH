@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1301SalimKhalilNaqqash.May.Hindawi62031951",
-    "BookCats": "plays",
-    "BookID": "62031951",
-    "BookTitle": "مي",
-    "AuthorID": "73530582",
-    "AuthorNam": "سليم خليل النقاش",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1301SalimKhalilNaqqash.May.Hindawi62031951
+#META# Tags: plays
+#META# ID: 62031951
+#META# Title: مي
+#META# AuthorID: 73530582
+#META# Author: سليم خليل النقاش
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

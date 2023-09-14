@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1318SulaymanIbnKhalil.TarikhQustantiniyya.Hindawi29064250",
-    "BookCats": "history",
-    "BookID": "29064250",
-    "BookTitle": "التحفة السنية في تاريخ القسطنطينية",
-    "AuthorID": "94197313",
-    "AuthorNam": "سليمان بن خليل بن بطرس بن جاويش",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1318SulaymanIbnKhalil.TarikhQustantiniyya.Hindawi29064250
+#META# Tags: history
+#META# ID: 29064250
+#META# Title: التحفة السنية في تاريخ القسطنطينية
+#META# AuthorID: 94197313
+#META# Author: سليمان بن خليل بن بطرس بن جاويش
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

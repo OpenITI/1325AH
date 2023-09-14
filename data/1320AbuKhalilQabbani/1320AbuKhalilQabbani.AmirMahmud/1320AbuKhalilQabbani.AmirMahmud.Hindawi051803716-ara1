@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1320AbuKhalilQabbani.AmirMahmud.Hindawi51803716",
-    "BookCats": "plays",
-    "BookID": "51803716",
-    "BookTitle": "الأمير محمود نجل شاه العجم",
-    "AuthorID": "80906818",
-    "AuthorNam": "أحمد أبو خليل القباني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1320AbuKhalilQabbani.AmirMahmud.Hindawi51803716
+#META# Tags: plays
+#META# ID: 51803716
+#META# Title: الأمير محمود نجل شاه العجم
+#META# AuthorID: 80906818
+#META# Author: أحمد أبو خليل القباني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1320AbuKhalilQabbani.HarunRashidMacaAmirGhanim.Hindawi74806249",
-    "BookCats": "plays",
-    "BookID": "74806249",
-    "BookTitle": "هارون الرشيد مع الأمير غانم بن أيوب وقوت القلوب: رواية تاريخية غرامية أدبية تلحينية تشخيصية",
-    "AuthorID": "80906818",
-    "AuthorNam": "أحمد أبو خليل القباني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1320AbuKhalilQabbani.HarunRashidMacaAmirGhanim.Hindawi74806249
+#META# Tags: plays
+#META# ID: 74806249
+#META# Title: هارون الرشيد مع الأمير غانم بن أيوب وقوت القلوب: رواية تاريخية غرامية أدبية تلحينية تشخيصية
+#META# AuthorID: 80906818
+#META# Author: أحمد أبو خليل القباني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

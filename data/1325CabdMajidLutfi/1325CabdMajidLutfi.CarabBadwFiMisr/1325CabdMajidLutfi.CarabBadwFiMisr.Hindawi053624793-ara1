@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1325CabdMajidLutfi.CarabBadwFiMisr.Hindawi53624793",
-    "BookCats": "history",
-    "BookID": "53624793",
-    "BookTitle": "العرب البدو في مصر",
-    "AuthorID": "93539581",
-    "AuthorNam": "عبد المجيد لطفي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1325CabdMajidLutfi.CarabBadwFiMisr.Hindawi53624793
+#META# Tags: history
+#META# ID: 53624793
+#META# Title: العرب البدو في مصر
+#META# AuthorID: 93539581
+#META# Author: عبد المجيد لطفي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

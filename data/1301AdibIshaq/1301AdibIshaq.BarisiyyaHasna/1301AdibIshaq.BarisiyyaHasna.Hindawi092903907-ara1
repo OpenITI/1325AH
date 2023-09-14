@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1301AdibIshaq.BarisiyyaHasna.Hindawi92903907",
-    "BookCats": "novels",
-    "BookID": "92903907",
-    "BookTitle": "الباريسية الحسناء",
-    "AuthorID": "27918574",
-    "AuthorNam": "أديب إسحق",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1301AdibIshaq.BarisiyyaHasna.Hindawi92903907
+#META# Tags: novels
+#META# ID: 92903907
+#META# Title: الباريسية الحسناء
+#META# AuthorID: 27918574
+#META# Author: أديب إسحق
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

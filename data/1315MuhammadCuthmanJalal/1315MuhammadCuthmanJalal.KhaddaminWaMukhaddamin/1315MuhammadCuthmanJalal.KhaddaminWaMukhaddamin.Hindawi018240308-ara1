@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1315MuhammadCuthmanJalal.KhaddaminWaMukhaddamin.Hindawi18240308",
-    "BookCats": "plays",
-    "BookID": "18240308",
-    "BookTitle": "الخدامين والمخدمين",
-    "AuthorID": "52720373",
-    "AuthorNam": "محمد عثمان جلال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1315MuhammadCuthmanJalal.KhaddaminWaMukhaddamin.Hindawi18240308
+#META# Tags: plays
+#META# ID: 18240308
+#META# Title: الخدامين والمخدمين
+#META# AuthorID: 52720373
+#META# Author: محمد عثمان جلال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

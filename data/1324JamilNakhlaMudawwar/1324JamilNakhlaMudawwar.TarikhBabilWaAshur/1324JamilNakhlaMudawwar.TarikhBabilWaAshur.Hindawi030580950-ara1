@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1324JamilNakhlaMudawwar.TarikhBabilWaAshur.Hindawi30580950",
-    "BookCats": "history",
-    "BookID": "30580950",
-    "BookTitle": "تاريخ بابل وآشور",
-    "AuthorID": "46395846",
-    "AuthorNam": "جميل نخلة المدور",
-    "EditorID": "60830250",
-    "EditorNam": "إبراهيم اليازجي",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1324JamilNakhlaMudawwar.TarikhBabilWaAshur.Hindawi30580950
+#META# Tags: history
+#META# ID: 30580950
+#META# Title: تاريخ بابل وآشور
+#META# AuthorID: 46395846
+#META# Author: جميل نخلة المدور
+#META# EditorID: 60830250
+#META# Editor: إبراهيم اليازجي
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1307BulusButrusMascad.IbnSinaFaylusuf.Hindawi86205862",
-    "BookCats": "biographies :: philosophy",
-    "BookID": "86205862",
-    "BookTitle": "ابن سينا الفيلسوف: بعد تسعمئة سنة على وفاته",
-    "AuthorID": "60302515",
-    "AuthorNam": "بولس مسعد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1307BulusButrusMascad.IbnSinaFaylusuf.Hindawi86205862
+#META# Tags: biographies :: philosophy
+#META# ID: 86205862
+#META# Title: ابن سينا الفيلسوف: بعد تسعمئة سنة على وفاته
+#META# AuthorID: 60302515
+#META# Author: بولس مسعد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

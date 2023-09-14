@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1325NajibMandrawi.KulumbWaCalamJadid.Hindawi48179527",
-    "BookCats": "history :: literature",
-    "BookID": "48179527",
-    "BookTitle": "كولومب والعالم الجديد: تاريخ اكتشاف أميركا",
-    "AuthorID": "80928041",
-    "AuthorNam": "نجيب المندراوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1325NajibMandrawi.KulumbWaCalamJadid.Hindawi48179527
+#META# Tags: history :: literature
+#META# ID: 48179527
+#META# Title: كولومب والعالم الجديد: تاريخ اكتشاف أميركا
+#META# AuthorID: 80928041
+#META# Author: نجيب المندراوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

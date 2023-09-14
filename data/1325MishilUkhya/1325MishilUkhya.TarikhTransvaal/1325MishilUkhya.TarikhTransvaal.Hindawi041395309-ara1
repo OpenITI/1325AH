@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1325MishilUkhya.TarikhTransvaal.Hindawi41395309",
-    "BookCats": "history",
-    "BookID": "41395309",
-    "BookTitle": "تاريخ الترنسفال",
-    "AuthorID": "35075205",
-    "AuthorNam": "ميشيل أغيا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1325MishilUkhya.TarikhTransvaal.Hindawi41395309
+#META# Tags: history
+#META# ID: 41395309
+#META# Title: تاريخ الترنسفال
+#META# AuthorID: 35075205
+#META# Author: ميشيل أغيا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

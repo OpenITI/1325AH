@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1316NajibHaddad.GhusnBan.Hindawi59270690",
-    "BookCats": "novels",
-    "BookID": "59270690",
-    "BookTitle": "غصن البان في رياض الجنان",
-    "AuthorID": "82085960",
-    "AuthorNam": "ألفونس دو لامارتين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "25707097",
-    "TranslNam": "نجيب الحداد",
-    "BookRel": "1285AlphonseDeLamartine (TRANSL)"
-}
-
+#META# URI: 1316NajibHaddad.GhusnBan.Hindawi59270690
+#META# Tags: novels
+#META# ID: 59270690
+#META# Title: غصن البان في رياض الجنان
+#META# AuthorID: 82085960
+#META# Author: ألفونس دو لامارتين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 25707097
+#META# Translator: نجيب الحداد
+#META# Related_books: 1285AlphonseDeLamartine (TRANSL)
 
 #META#Header#End#
 
