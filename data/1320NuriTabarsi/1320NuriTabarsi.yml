@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 1320-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Tabrisī(Ṭabarsī), Ḥad̲j̲d̲j̲ Mīrzā Ḥusayn b. Muḥammad Taḳī Nūrī (1254-1320/1839-1902) It̲h̲nā-ʿas̲h̲arī S̲h̲īʿī scholar and divine considered by some to have been the greatest S̲h̲īʿī exponent of ḥadīt̲h̲ and ak̲h̲bār since Muḥammad Bāḳir al-Mad̲j̲lisī (d. 1699 [q.v.]). ": http://dx.doi.org/10.1163/1573-3912_islam_SIM_7265
